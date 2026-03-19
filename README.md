@@ -1,0 +1,1 @@
+# Rezolvarea-numerica-a-ecuatiei-de-difuzie-a-caldurii
